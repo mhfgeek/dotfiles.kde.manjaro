@@ -1,0 +1,114 @@
+Nov 18 22:29 : avahi: Service 'Music Player @ mhfgeek' successfully established.
+Nov 18 22:29 : client: [0] opened from [::1]:44040
+Nov 18 22:31 : update: added /Back Number - Happy End.flac
+Nov 18 22:31 : update: added /Sukimaswitch - Kanade.flac
+Nov 18 22:32 : exception: Stored playlists are disabled
+Nov 18 22:32 : exception: Failed to open "My Pulse Output" (pulse)
+Nov 18 22:32 : exception: nested: failed to connect: Connection refused
+Nov 18 22:32 : exception: Failed to open "My Pulse Output" (pulse)
+Nov 18 22:32 : exception: nested: failed to connect: Connection refused
+Nov 18 22:32 : player: problems opening audio device while playing "Back Number - Happy End.flac"
+Nov 18 22:32 : exception: Failed to open "My Pulse Output" (pulse)
+Nov 18 22:32 : exception: nested: failed to connect: Connection refused
+Nov 18 22:32 : exception: Failed to open "My Pulse Output" (pulse)
+Nov 18 22:32 : exception: nested: failed to connect: Connection refused
+Nov 18 22:32 : exception: Failed to open "My Pulse Output" (pulse)
+Nov 18 22:32 : exception: nested: failed to connect: Connection refused
+Nov 18 22:32 : exception: Failed to open "My Pulse Output" (pulse)
+Nov 18 22:32 : exception: nested: failed to connect: Connection refused
+Nov 18 22:32 : exception: Failed to open "My Pulse Output" (pulse)
+Nov 18 22:32 : exception: nested: failed to connect: Connection refused
+Nov 18 22:32 : exception: Failed to open "My Pulse Output" (pulse)
+Nov 18 22:32 : exception: nested: failed to connect: Connection refused
+Nov 18 22:32 : exception: Failed to open "My Pulse Output" (pulse)
+Nov 18 22:32 : exception: nested: failed to connect: Connection refused
+Nov 18 22:32 : exception: Failed to open "My Pulse Output" (pulse)
+Nov 18 22:32 : exception: nested: failed to connect: Connection refused
+Nov 18 22:32 : exception: Failed to open "My Pulse Output" (pulse)
+Nov 18 22:32 : exception: nested: failed to connect: Connection refused
+Nov 18 22:32 : exception: Failed to open "My Pulse Output" (pulse)
+Nov 18 22:32 : exception: nested: failed to connect: Connection refused
+Nov 18 22:32 : exception: Failed to open "My Pulse Output" (pulse)
+Nov 18 22:32 : exception: nested: failed to connect: Connection refused
+Nov 18 22:32 : exception: Failed to open "My Pulse Output" (pulse)
+Nov 18 22:32 : exception: nested: failed to connect: Connection refused
+Nov 18 22:34 : client: [0] closed
+Nov 18 22:34 : client: [1] opened from [::1]:44246
+Nov 18 22:34 : exception: Failed to open "My Pulse Output" (pulse)
+Nov 18 22:34 : exception: nested: failed to connect: Connection refused
+Nov 18 22:34 : exception: Failed to open "My Pulse Output" (pulse)
+Nov 18 22:34 : exception: nested: failed to connect: Connection refused
+Nov 18 22:34 : exception: Failed to open "My Pulse Output" (pulse)
+Nov 18 22:34 : exception: nested: failed to connect: Connection refused
+Nov 18 22:34 : exception: Failed to open "My Pulse Output" (pulse)
+Nov 18 22:34 : exception: nested: failed to connect: Connection refused
+Nov 18 22:34 : exception: Failed to open "My Pulse Output" (pulse)
+Nov 18 22:34 : exception: nested: failed to connect: Connection refused
+Nov 18 22:34 : exception: Failed to open "My Pulse Output" (pulse)
+Nov 18 22:34 : exception: nested: failed to connect: Connection refused
+Nov 18 22:39 : exception: Failed to open "My Pulse Output" (pulse)
+Nov 18 22:39 : exception: nested: failed to connect: Connection refused
+Nov 18 22:39 : exception: Failed to open "My Pulse Output" (pulse)
+Nov 18 22:39 : exception: nested: failed to connect: Connection refused
+Nov 18 22:39 : exception: Failed to open "My Pulse Output" (pulse)
+Nov 18 22:39 : exception: nested: failed to connect: Connection refused
+Nov 18 22:39 : exception: Failed to open "My Pulse Output" (pulse)
+Nov 18 22:39 : exception: nested: failed to connect: Connection refused
+Nov 18 22:39 : client: [1] closed
+Nov 18 22:40 : player: played "Back Number - Happy End.flac"
+Nov 18 22:41 : zeroconf: No global port, disabling zeroconf
+Nov 18 22:42 : client: [0] opened from [::1]:54362
+Nov 18 22:42 : exception: Stored playlists are disabled
+Nov 18 22:43 : player: played "Back Number - Happy End.flac"
+Nov 18 22:44 : update: removing Sukimaswitch - Kanade.flac
+Nov 18 22:44 : update: added /Sukima Switch - Kanade.flac
+Nov 18 22:44 : exception: Stored playlists are disabled
+Nov 18 22:50 : player: played "Sukima Switch - Kanade.flac"
+Nov 18 22:56 : player: played "Back Number - Happy End.flac"
+Nov 18 23:03 : player: played "Back Number - Happy End.flac"
+Nov 18 23:06 : update: added /Jay Chou - Waiting For You.flac
+Nov 18 23:06 : update: added /7!! - Orange.flac
+Nov 18 23:06 : update: added /Xia Hu - Those Bygone Years.flac
+Nov 18 23:06 : exception: Stored playlists are disabled
+Nov 18 23:10 : client: [0] closed
+Nov 18 23:10 : client: [1] opened from [::1]:54808
+Nov 18 23:10 : client: [1] closed
+Nov 18 23:10 : player: played "7!! - Orange.flac"
+Nov 18 23:11 : zeroconf: No global port, disabling zeroconf
+Nov 18 23:11 : client: [0] opened from [::1]:54812
+Nov 18 23:11 : exception: Stored playlists are disabled
+Nov 18 23:17 : player: played "7!! - Orange.flac"
+Nov 18 23:23 : player: played "Back Number - Happy End.flac"
+Nov 18 23:28 : player: played "Jay Chou - Waiting For You.flac"
+Nov 18 23:34 : update: added /Eric Chou - What's Wrong.flac
+Nov 18 23:34 : update: added /Eric Chou - Something about LA.flac
+Nov 18 23:34 : update: added /Eric Chou - The Chaos After You.flac
+Nov 18 23:34 : exception: Stored playlists are disabled
+Nov 18 23:37 : player: played "Eric Chou - Something about LA.flac"
+Nov 18 23:44 : player: played "Eric Chou - What's Wrong.flac"
+Nov 18 23:49 : update: added /高爾宣 OSN - Why You Gonna Lie.flac
+Nov 18 23:49 : update: added /高爾宣 OSN - Without You.flac
+Nov 18 23:49 : exception: Stored playlists are disabled
+Nov 18 23:55 : player: played "高爾宣 OSN - Without You.flac"
+Nov 19 00:03 : player: played "Jay Chou - Waiting For You.flac"
+Nov 19 00:09 : player: played "Xia Hu - Those Bygone Years.flac"
+Nov 19 00:12 : player: played "Eric Chou - Something about LA.flac"
+Nov 19 00:14 : client: [0] closed
+Nov 19 00:14 : exception: Failed to play on "My Pulse Output" (pulse): suspended
+Nov 19 00:17 : player: played "Eric Chou - The Chaos After You.flac"
+Nov 19 00:17 : client: [1] opened from [::1]:57504
+Nov 19 00:22 : player: played "Eric Chou - What's Wrong.flac"
+Nov 19 00:25 : player: played "高爾宣 OSN - Why You Gonna Lie.flac"
+Nov 19 00:28 : player: played "高爾宣 OSN - Without You.flac"
+Nov 19 00:43 : player: played "7!! - Orange.flac"
+Nov 19 00:49 : player: played "Back Number - Happy End.flac"
+Nov 19 00:53 : player: played "Jay Chou - Waiting For You.flac"
+Nov 19 01:17 : client: [1] closed
+Nov 19 01:17 : player: played "Xia Hu - Those Bygone Years.flac"
+Nov 19 01:18 : zeroconf: No global port, disabling zeroconf
+Nov 19 12:25 : zeroconf: No global port, disabling zeroconf
+Nov 19 12:30 : client: [0] opened from [::1]:44814
+Nov 19 12:30 : exception: Stored playlists are disabled
+Nov 19 12:36 : player: played "7!! - Orange.flac"
+Nov 19 12:39 : client: [1] opened from [::1]:44826
+Nov 19 12:47 : player: played "Back Number - Happy End.flac"
